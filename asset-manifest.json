@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alphaCoderR/noteOn/static/css/main.1309c4ec.chunk.css",
+    "main.js": "/alphaCoderR/noteOn/static/js/main.80da01ff.chunk.js",
+    "main.js.map": "/alphaCoderR/noteOn/static/js/main.80da01ff.chunk.js.map",
+    "runtime-main.js": "/alphaCoderR/noteOn/static/js/runtime-main.7716ce8f.js",
+    "runtime-main.js.map": "/alphaCoderR/noteOn/static/js/runtime-main.7716ce8f.js.map",
+    "static/js/2.288c6410.chunk.js": "/alphaCoderR/noteOn/static/js/2.288c6410.chunk.js",
+    "static/js/2.288c6410.chunk.js.map": "/alphaCoderR/noteOn/static/js/2.288c6410.chunk.js.map",
+    "index.html": "/alphaCoderR/noteOn/index.html",
+    "precache-manifest.adda38a08587127977d758afeb789b9b.js": "/alphaCoderR/noteOn/precache-manifest.adda38a08587127977d758afeb789b9b.js",
+    "service-worker.js": "/alphaCoderR/noteOn/service-worker.js",
+    "static/css/main.1309c4ec.chunk.css.map": "/alphaCoderR/noteOn/static/css/main.1309c4ec.chunk.css.map",
+    "static/js/2.288c6410.chunk.js.LICENSE.txt": "/alphaCoderR/noteOn/static/js/2.288c6410.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7716ce8f.js",
+    "static/js/2.288c6410.chunk.js",
+    "static/css/main.1309c4ec.chunk.css",
+    "static/js/main.80da01ff.chunk.js"
+  ]
+}
